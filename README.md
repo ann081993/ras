@@ -1,4 +1,4 @@
-# ras
+# Computational prediction of the phenotypic effect of flavonoids on adiponectin biosynthesis
 The codes used to build RAS model to predict the adiponectin-secretion-promoting activity
 
 <img src="./Graphical Abstract.svg" width="150%" height="150%">
