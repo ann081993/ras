@@ -13,5 +13,7 @@ This repository includes the codes for
 
 * All other anxillary utilities for predicting the adiponectin-secretion-promoting activity of flavonoids
 
-* Please cite:
+---
+
+Please cite:
 An et al., Computational prediction of the phenotypic effect of flavonoids on adiponectin biosynthesis, in preparation
