@@ -1,8 +1,7 @@
 # ras
 The codes used to build RAS model to predict the adiponectin-secretion-promoting activity
 
-![GA](./Graphical Abstract.svg)
-<img src="./Graphical Abstract.svg">
+<img src="./Graphical Abstract.svg" width="150%" height="150%">
 
 This repository includes the codes for
 * Collecting information on phytochemicals
