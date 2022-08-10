@@ -1,7 +1,7 @@
 # Computational prediction of the phenotypic effect of flavonoids on adiponectin biosynthesis
 The codes used to build RAS model to predict the adiponectin-secretion-promoting phenotype.
 
-<center><img src="./Graphical Abstract.svg" width="150%" height="150%"></center>
+<center><img src="./data/Graphical 400x.png" width="100%" height="100%"></center>
 
 This repository includes the codes for
 * Collecting information on phytochemicals
