@@ -16,4 +16,4 @@ This repository includes the codes for
 ---
 
 Please cite:
-An et al., Computational prediction of the phenotypic effect of flavonoids on adiponectin biosynthesis, in preparation
+An et al., Computational prediction of the phenotypic effect of flavonoids on adiponectin biosynthesis, manuscript in preparation
