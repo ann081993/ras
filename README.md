@@ -11,6 +11,10 @@ This repository includes the scripts and source data for
 * Training random forest-based nuclear receptor activity classifier
 * Building single-cell transcriptomics-based linear regression model
 
+''' source("https://raw.githubusercontent.com/ann081993/ras/master/model/ras.R") '''
+
+
+
 ---
 
 Please cite:
