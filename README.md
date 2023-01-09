@@ -23,10 +23,10 @@ source("https://raw.githubusercontent.com/ann081993/ras/master/model/ras.R")
 3. Running the RAS model   
     + RASAR matrix:  ```rasar_mat <- rasar(smiles)```
         * RASAR approach can be implemented by ```rasar``` function.
-        * Exemplar structures of S. baicalensis-derived flavonoids are in ```smiles``` object.
+        * Structures of S. baicalensis-derived flavonoids are loaded as ```smiles``` in SMILES format.
 
     + RAS model: ```predicted <- ras(rasar_mat)```
-        * Using the RASAR matrix producted above can be fed to ```ras``` function.
+        * The RASAR matrix produced above can be fed to ```ras``` function.
         * One can predict relative adiponectin score (RAS).
 
     + Output    
