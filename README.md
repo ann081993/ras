@@ -19,8 +19,8 @@ The relative adiponectin score (RAS) was obtained by sequentially applying two m
 ```R
 source("https://raw.githubusercontent.com/ann081993/ras/master/model/ras.R")
 ```
-3. Running the RAS model
-  1) RASAR matrix
+3. Running the RAS model   
+  3.1. RASAR matrix   
     + RASAR approach can be implemented by ```rasar``` function.
     + Exemplar structures of S. baicalensis-derived flavonoids are in ```smiles``` object.
 ```R
