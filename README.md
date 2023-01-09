@@ -26,11 +26,14 @@ source("https://raw.githubusercontent.com/ann081993/ras/master/model/ras.R")
 ```R
 rasar_mat <- rasar(smiles)
 ```
-  2) RAS model
+  3.2. RAS model   
+    + Using the RASAR matrix producted above can be fed to ```ras``` function.
+    + One can predict relative adiponectin score (RAS).
 ```R
 predicted <- ras(rasar_mat)
 ```
-  3) Output describes NR activities and RAS value of chemicals.
+  3.3. Output   
+    + Output describes NR activities and RAS value of chemicals.
 
 ### Description
 This repository includes the scripts and source data for
