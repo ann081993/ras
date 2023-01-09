@@ -1,7 +1,7 @@
 # Computational Prediction of the Phenotypic Effect of Flavonoids on Adiponectin Biosynthesis
 The scripts and source data used to build RAS model to predict the adiponectin-secretion-promoting phenotype.
 
-<center><img src="./data/Graphical 400x.png" width="80%" height="80%"></center>
+<center><img src="./data/GA.png" width="80%" height="80%"></center>
 
 ### Motivation
 As a phenotypic assay for screening drug candidates against human metabolic diseases, the adipogenesis model of human bone marrow mesenchymal stem cells was used by measuring *adiponectin biosynthesis*. Notably, the relative downregulation of adiponectin, cytokine produced by adipocytes, and its cellular signalling in various metabolic diseases has been previously reported, such as in atherosclerosis, type II diabetes, and nonalcoholic fatty liver disease. Hypoadiponectinemia has also been reported in human cancers such as colorectal and breast cancers. Thus, compound-induced upregulation of adiponectin secretion has been suggested as a promising therapeutic approach for human metabolic diseases and cancers.    
