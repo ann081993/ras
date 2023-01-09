@@ -21,22 +21,22 @@ The relative adiponectin score (RAS) was obtained by sequentially applying two m
 source("https://raw.githubusercontent.com/ann081993/ras/master/model/ras.R")
 ```
 3. Running the RAS model   
-  3.1. RASAR matrix    
-    + RASAR approach can be implemented by ```rasar``` function.
-    + Exemplar structures of S. baicalensis-derived flavonoids are in ```smiles``` object.
+    3.1. RASAR matrix    
+        + RASAR approach can be implemented by ```rasar``` function.
+        + Exemplar structures of S. baicalensis-derived flavonoids are in ```smiles``` object.
 ```R
 rasar_mat <- rasar(smiles)
 ```    
-
-  3.2. RAS model    
-    + Using the RASAR matrix producted above can be fed to ```ras``` function.
-    + One can predict relative adiponectin score (RAS).
+    
+    3.2. RAS model    
+        + Using the RASAR matrix producted above can be fed to ```ras``` function.
+        + One can predict relative adiponectin score (RAS).
 ```R
 predicted <- ras(rasar_mat)
 ```    
-
-  3.3. Output    
-    + Output describes NR activities and RAS value of chemicals.
+    
+    3.3. Output    
+        + Output describes NR activities and RAS value of chemicals.
 
 ### Description
 This repository includes the scripts and source data for
