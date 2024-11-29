@@ -1,5 +1,5 @@
-# Computational Prediction of the Phenotypic Effect of Flavonoids on Adiponectin Biosynthesis
-The scripts and source data used to build RAS model to predict the adiponectin-secretion-promoting phenotype.
+# Relative adiponectin score (RAS) model
+The scripts and source data used to build RAS model to predict the adiponectin-secretion-promoting phenotype, described in [An et al., 2023 JCIM](https://doi.org/10.1021/acs.jcim.3c00033).
 
 <center><img src="./data/GA.png" width="80%" height="80%"></center>
 
